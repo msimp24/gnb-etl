@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API for GNB property sales",
+  "keywords": [
+    "API",
+    "sales",
+    "home"
+  ],
+  "license": "MIT",
+  "author": "Mark Simpso",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.10",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.7"
+  }
+}

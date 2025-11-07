@@ -1,0 +1,28 @@
+Services Nouveau-Brunswick - GeoNB
+http://www.snb.ca/geonb
+
+**DESCRIPTION**
+Données sur l'évaluation foncière et la fiscalité du Nouveau-Brunswick 
+
+**FORMAT**
+TSV - valeurs séparées par des tabulations
+
+**DÉSIGNATION DES FICHIERS**
+Tombstone.tsv
+TA.tsv
+Assessment.tsv
+Sales.tsv
+PIDPAN.tsv 
+
+**RÉFÉRENCES SPATIALES**
+N/A
+
+**SOURCE**
+Services Nouveau-Brunswick
+
+**DATE**
+2025-11-01
+
+**LICENCE**
+Licence des données ouvertes de GeoNB
+http://geonb.snb.ca/documents/license/geonb-odl_fr.pdf
